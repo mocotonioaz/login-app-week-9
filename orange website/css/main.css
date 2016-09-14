@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	outline: none; 
+	padding: 0;  
+}
+body style {
+	margin: 0px;
+	cursor: default;
+} 
+body { 
+	line-height: 1;
+	padding-top:50px;
+
+}
+nav a {
+	color: white;
+	text-decoration: none;
+}
+nav	{
+	background-color: #FE7E00;
+	font-family: 'Teko', sans-serif;
+	min-height: 50px;
+	top: 0;
+	width: 90%;
+	text-decoration-color: white;
+}
+header img {
+	float: left;
+
+}
+header h4 {
+	color: #FE7E00;
+	text-decoration: none;
+	margin: 2%;
+	height: 15px;
+}
+
+header p {
+	color: #FE7E00;
+	text-decoration: none;
+	position: center;
+	margin: 3%;
+}
+p span {
+	color: #7ACCC8;
+}
+.logo {
+	color: white;
+	display: inline-block;
+	margin-left: 10%;
+	padding: 9px 10px 10px;	
+}
+
+.sitenav {
+	display: inline-block;
+	float: right;
+	margin-right: 10%;
+
+}
+.sitenav li {
+	display: inline-block;
+	margin-top: 15px;
+}
