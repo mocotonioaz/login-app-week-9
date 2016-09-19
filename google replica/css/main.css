@@ -147,3 +147,24 @@ div.footer li {
     padding: 5px 10px 0 0;
     vertical-align: bottom;
 }
+
+/!-- Media Queries --/
+
+@media(max-width:730px) {
+    .seach-box input {
+    width: 80%;
+
+}
+}
+
+@media(max-width: 320px){
+    .share-button{
+        display: none;
+    }
+}
+@media (max-device-width: 320px) {
+    .fa-bell{
+        display:none;
+    }
+
+}
