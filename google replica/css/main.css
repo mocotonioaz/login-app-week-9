@@ -162,6 +162,11 @@ div.footer li {
         display: none;
     }
 }
+@media(max-width: 320px){
+    .images-button{
+        display: none;
+    }
+}
 @media (max-device-width: 320px) {
     .fa-bell{
         display:none;
