@@ -149,27 +149,57 @@ div.footer li {
 }
 
 /!-- Media Queries --/
+/*===============================
+        MEDIA QUERIES
+===============================*/
 
-@media(max-width:730px) {
-    .seach-box input {
-    width: 80%;
-
-}
-}
-
-@media(max-width: 320px){
-    .share-button{
-        display: none;
+@media(max-width: 750px) {
+    .searchBox input {
+        width:75%;
     }
 }
-@media(max-width: 320px){
-    .images-button{
-        display: none;
-    }
-}
-@media (max-device-width: 320px) {
-    .fa-bell{
+@media(max-width: 595px) {
+    .right{
         display:none;
     }
-
+    ul.left {
+        width: 60%;
+        margin: 10px auto;
+        float: none;
+        }
+    }   
+@media(max-width: 414px) {
+    * {
+        font-size:12px;
+    }
+    .profile {
+        display:none;
+    }
+    ul.nav {
+        margin-right:0;
+    }
+    ul.nav li {
+        margin-right: 0;
+        float: auto;
+    }
+    .share {
+        display:none;
+    }
+    .fa{
+        display:none;
+    }
 }
+@media(max-width: 400px) {
+    ul.left {
+        width: 80%;
+    }
+}
+@media(max-width: 360px) {
+    ul.left {
+        width: 80%;
+    }
+}
+@media(max-width: 350px) {
+      ul.left {
+        width: 90%;
+    }
