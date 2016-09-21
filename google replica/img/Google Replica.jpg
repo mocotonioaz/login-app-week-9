@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)http://codifyacademy.com/google/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Google Replica</title>
+
+	<link rel="shortcut icon" href="http://codifyacademy.com/google/favicon.ico">
+	<link rel="stylesheet" href="./Google Replica_files/font-awesome.min.css">
+	<link rel="stylesheet" href="./Google Replica_files/main.css">
+</head>
+
+<body>
+	<div class="navigation">
+		<ul>
+			<li>
+				<a href="https://www.google.com/">+Chris</a>
+			</li>
+			<li>
+				<a href="https://mail.google.com/mail/?tab=wm">Mail</a>
+			</li>
+			<li>
+				<a href="https://www.google.com/imghp?hl=en&amp;tab=wi&amp;ei=jtezVc6XNcq2ed_doeAL&amp;ved=0CBQQqi4oAQ">Images</a>
+			</li>
+			<li>
+				<span class="fa fa-th"></span>
+			</li>
+			<li>
+				<span class="fa fa-bell"></span>
+			</li>
+			<li>
+				<span class="share">Share</span>
+			</li>
+			<li>
+				<img src="./Google Replica_files/chris3.jpg" class="profile" alt="Profile Image">
+			</li>
+		</ul>
+	</div>
+
+	<div class="cta">
+		<div class="logo">
+			<img src="./Google Replica_files/google.png" alt="Google Logo">
+		</div>
+		<input type="text" placeholder="Search Google or type a URL" autofocus="">
+		<div class="search">
+			<button>Google Search</button>
+			<button>I'm Feeling Lucky</button>
+		</div>
+	</div>
+
+	<div class="footer">
+		<ul class="left">
+			<li><a href="https://www.google.com/intl/en/ads/?fg=1">Advertising</a></li>
+			<li><a href="https://www.google.com/services/?fg=1">Business</a></li>
+			<li><a href="https://www.google.com/intl/en/about.html?fg=1">About</a></li>
+		</ul>
+		<ul class="right">
+			<li><a href="https://www.google.com/intl/en/policies/privacy/?fg=1">Privacy</a></li>
+			<li><a href="https://www.google.com/intl/en/policies/terms/?fg=1">Terms</a></li>
+			<li><a href="https://www.google.com/preferences?hl=en">Settings</a></li>
+		</ul>
+	</div>
+
+
+</body></html>
